@@ -9,7 +9,7 @@ Naive Bayes implementation with digit recognition sample
 - matplotlib
 
 ## Test
-	$ python naive_bays_test.py
+	$ python naive_bayes_test.py
 
 ## Digit recognition using MNIST dataset
 	$ python mnist_digit_recognition.py
