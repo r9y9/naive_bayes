@@ -19,6 +19,6 @@ mean of Gaussians
 ![](mnist_mean_of_gaussian.png)
 
 ### Result
-0.7358 % (7358/10000)
+0.7358 (7358/10000)
 
 Note that it spends about an hour to test 10000 exapmles in this simple implementation.
