@@ -8,7 +8,8 @@ Naive Bayes implementation with digit recognition sample
 - scipy
 - matplotlib
 
-## Test
+## Synthetic data example
+	$ git clone https://github.com/r9y9/naive_bayes && cd naive_bayes
 	$ python naive_bayes_test.py
 
 ## Digit recognition using MNIST dataset
