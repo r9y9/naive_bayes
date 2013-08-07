@@ -1,7 +1,7 @@
-naive-bayes
+naive_bayes
 ===========
 
-Naive Bayes implementation with digit recognition sample
+Naive Bayes implementation with digit recognition example
 
 ## Requirement
 - numpy
@@ -20,6 +20,6 @@ mean of Gaussians
 ![](mnist_mean_of_gaussian.png)
 
 ### Result
-0.7358 (7358/10000)
+0.7634 (7634/10000)
 
 Note that it spends about an hour to test 10000 exapmles in this simple implementation.

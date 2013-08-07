@@ -52,6 +52,7 @@ def mnist_digit_recognition():
 
     test_data, labels = test_set
     # slice
+    #limit = len(test_data)
     limit = 50
     test_data, labels = test_data[:limit], labels[:limit]
     results = np.arange(limit, dtype=np.int)
